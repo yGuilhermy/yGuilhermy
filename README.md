@@ -41,6 +41,7 @@ Desenvolvedor independente focado em soluções práticas, automação e ferrame
 
 #### 🤖 Inteligência Artificial & Bots
 - **[Hikari](https://github.com/yGuilhermy/Hikari)**: Mais que um bot, uma amiga inteligente para servidores de comunidade. Gestão avançada, personalidade, síntese de voz e automação completa.
+- **[HikariZap](https://github.com/yGuilhermy/HikariZap)**: Mais que um bot, uma amiga inteligente para seus grupos do whatsapp. Personalidade e funções diretamente da conversa.
 
 #### 🥽 Realidade Virtual & Modding
 - **[VRSideForge](https://github.com/yGuilhermy/VRSideForge)**: Ferramenta Web para scraping e gerenciamento de downloads de itens para VR.
