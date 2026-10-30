@@ -7,7 +7,6 @@
     <a href="https://www.tiktok.com/@yguilherm"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
     <a href="https://www.youtube.com/@yguilhermy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="https://discord.com/users/593372065730396160"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://discord.gg/UWH6GwcCdu"><img src="https://img.shields.io/badge/Sekinin-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </p>
 </div>
 
