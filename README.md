@@ -52,8 +52,9 @@ Desenvolvedor independente focado em soluções práticas, automação e ferrame
 - **[Auto-App-Remover](https://github.com/yGuilhermy/Auto-App-Remover)**: Aplicação desktop em Electron para limpeza rápida de bloatwares e aplicativos indesejados via ADB.
 - **[MoonlightOrganizer](https://github.com/yGuilhermy/MoonlightOrganizer)**: Gerenciador de jogos e artes para hosts Sunshine, Apollo e Moonlight.
 
-#### 💡 IoT & Baixo Nível
+#### 💡 IoT & Soluções
 - **[LightControl](https://github.com/yGuilhermy/LightControl)**: Aplicação local desenvolvida em Rust para controle direto de lâmpadas Tuya Smart e Smart Life sem dependência de nuvem externa.
+- **[CleanPlate](https://github.com/yGuilhermy/CleanPlate)**: Programa de recorte de imagens e vídeos usando uma referência do cenário vazio.
 
 ---
 
