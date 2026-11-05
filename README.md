@@ -55,6 +55,7 @@ Desenvolvedor independente focado em soluções práticas, automação e ferrame
 #### 💡 IoT & Soluções
 - **[LightControl](https://github.com/yGuilhermy/LightControl)**: Aplicação local desenvolvida em Rust para controle direto de lâmpadas Tuya Smart e Smart Life sem dependência de nuvem externa.
 - **[CleanPlate](https://github.com/yGuilhermy/CleanPlate)**: Programa de recorte de imagens e vídeos usando uma referência do cenário vazio.
+- **[RomManager](https://github.com/yGuilhermy/RomManager)**: Gerenciador local de ROMs de PlayStation 2 com download inteligente e execução direta no emulador.
 
 ---
 
